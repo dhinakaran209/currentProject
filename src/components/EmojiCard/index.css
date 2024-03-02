@@ -1,0 +1,17 @@
+.emoji-button {
+  background-color: #ffffff33;
+  border-radius: 8px;
+  border-color: #ffffff33;
+  padding: 15px;
+  width: 120px;
+  height: 120px;
+  margin: 5px;
+  border-width: 3px;
+  border-style: solid;
+  cursor: pointer;
+}
+
+.emoji-size {
+  width: 60px;
+  height: 60px;
+}
